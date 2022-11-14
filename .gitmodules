@@ -1,0 +1,3 @@
+[submodule "quicklispnix"]
+	path = quicklispnix
+	url = ./quicklispnix
